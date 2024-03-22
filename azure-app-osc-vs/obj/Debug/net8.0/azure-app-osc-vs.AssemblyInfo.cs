@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("4e9927ed-175e-4881-b153-5f56a01a8401")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-osc-vs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ded82807816e0d7c03e6798c803fdbc019e5eb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68156ffd61ba218f7301a3d221f601622dbcb00")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-osc-vs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-osc-vs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

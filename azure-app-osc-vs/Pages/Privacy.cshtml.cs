@@ -14,6 +14,7 @@ namespace azure_app_osc_vs.Pages
 
         public void OnGet()
         {
+            throw  new Exception("testing insights");
         }
     }
 

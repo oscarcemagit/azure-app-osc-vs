@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azure-app-osc-vs.props" />
+</Project>
