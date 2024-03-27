@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-osc-vs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68156ffd61ba218f7301a3d221f601622dbcb00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc51bd211d40f926dc57a455600ee6c4196ffac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-osc-vs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-osc-vs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
